@@ -84,8 +84,8 @@ section {
 
 .dycalendar-month-container .dycalendar-today-date,
 .dycalendar-month-container .dycalendar-target-date {
-  background: #fff;
-  color: #111 !important;
+  background: #28a745 !important;
+  color: #fff !important;
   box-shadow: 4px 4px 15px #caced4, -4px -4px 15px #f6fcff;
 }
 
