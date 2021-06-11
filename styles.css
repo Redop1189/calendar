@@ -64,7 +64,7 @@ section {
 }
 
 #dycalendar table tr td:nth-child(1):hover {
-  color: #fff !important;
+  color: #fff;
   background: rgba(220, 53, 69, 0.9);
   box-shadow: 4px 4px 15px #caced4 !important;
 }
@@ -77,7 +77,7 @@ section {
 }
 
 #dycalendar table td:hover {
-  background: #fff;
+  background: #fff !important;
   color: #111 !important;
   box-shadow: 4px 4px 15px #caced4, -4px -4px 15px #f6fcff;
 }
