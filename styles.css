@@ -15,6 +15,7 @@ section {
   min-height: 100vh;
   background: #e0e5ec;
   overflow: hidden;
+  user-select: none;
 }
 
 .box {
